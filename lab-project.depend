@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1625502193 source:/home/exp/Downloads/Cprogram/cprogram01/lab-project/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1625502193 source:/home/exp/Downloads/Cprogram/All-Project/lab-project/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
